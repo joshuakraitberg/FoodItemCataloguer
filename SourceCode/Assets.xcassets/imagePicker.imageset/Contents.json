@@ -1,0 +1,41 @@
+{
+  "images" : [
+    {
+      "alignment-insets" : {
+        "top" : 0,
+        "left" : 16,
+        "bottom" : 0,
+        "right" : 0
+      },
+      "idiom" : "universal",
+      "filename" : "icon-basic-set_12-camera-512.png",
+      "scale" : "1x"
+    },
+    {
+      "alignment-insets" : {
+        "top" : 0,
+        "left" : 16,
+        "bottom" : 0,
+        "right" : 0
+      },
+      "idiom" : "universal",
+      "filename" : "icon-basic-set_12-camera-513.png",
+      "scale" : "2x"
+    },
+    {
+      "alignment-insets" : {
+        "top" : 0,
+        "left" : 16,
+        "bottom" : 0,
+        "right" : 0
+      },
+      "idiom" : "universal",
+      "filename" : "icon-basic-set_12-camera-514.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
